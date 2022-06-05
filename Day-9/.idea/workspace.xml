@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf90d9de-5d67-4d73-982b-2b21cee4f4ea" name="Changes" comment="Day 9 scope completed">
-      <change afterPath="$PROJECT_DIR$/main-2-scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-3-variable-length-arg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-4-scope-func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-5-passing-function-as-arg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main-6-passing-function-as-arg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf90d9de-5d67-4d73-982b-2b21cee4f4ea" name="Changes" comment="Day 9 completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654425603963</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 9 completed">
+      <created>1654427641231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654427641231</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +217,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Day 9 scope completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 9 scope completed" />
+    <MESSAGE value="Day 9 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 9 completed" />
   </component>
 </project>
