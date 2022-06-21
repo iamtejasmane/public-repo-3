@@ -13,7 +13,7 @@ class Car:
           - can not be accessed outside the class
           - e.g. self.__model, self.__company, self.__price
     """
-    def __init__(self, model, company, price):
+    def __init__(self, model, company, price=0):
         self.__model = model
         self.__company = company
         self.__price = price
